@@ -10,6 +10,11 @@ This iOS app is my first app in Swift, and I am making an effort to build this C
 ### TO DO
 - Still in progress
 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+
+- Still in Progress
+
 ## Author
 Johann Pires (follow me on [LinkedIn](https://www.linkedin.com/in/johann-p-261961215/))
 
